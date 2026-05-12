@@ -1,0 +1,6 @@
+.DS_Store
+^x
+
+git add .gitignore
+git commit -m "Removed .DS_Store and added to gitignore"
+
